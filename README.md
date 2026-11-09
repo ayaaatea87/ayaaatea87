@@ -52,7 +52,7 @@ Hey! I'm **Aya**, a Software Engineer interested in backend development and buil
 
 Exploring multithreading, parallel processing, asynchronous programming, and performance optimization.
 
-<a href="https://github.com/ayaaatea87/ayaaatea87-Threads-Assignment/tree/assignment/1-8">
+<a href="https://github.com/ayaaatea87/ayaaatea87-Threads-Assignment">
 <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
