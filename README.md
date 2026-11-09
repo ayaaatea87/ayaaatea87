@@ -50,4 +50,4 @@ A backend e-commerce application built with Node.js, Express.js, and MongoDB, fe
 ### 📫 Connect With Me
 
 - [GitHub](https://github.com/ayaaatea87)
-- [LinkedIn]((https://www.linkedin.com/in/aya-atea-6766a831a/))
+- [LinkedIn](https://www.linkedin.com/in/aya-atea-6766a831a/)
