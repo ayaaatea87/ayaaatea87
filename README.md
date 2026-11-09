@@ -75,22 +75,6 @@ Backend e-commerce application featuring authentication, product management, car
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayaaatea87&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C4B5FD&text_color=E9D5FF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaaatea87&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ayaaatea87&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" width="75%" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
